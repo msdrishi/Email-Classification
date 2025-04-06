@@ -87,5 +87,3 @@ We worked extensively to minimize token usage while retaining essential informat
 ## 👥 Team
 - **Rishi Prasad** - [GitHub](https://github.com/msdrishi) | [LinkedIn](https://www.linkedin.com/in/rishi-prasad-6526a7213/)
 - **Dhakshayani** - [GitHub](https://github.com/gsvdhakshayani) | [LinkedIn](https://www.linkedin.com/in/dhakshayani-garapati/)
-- **Abhinisha** - [GitHub](https://github.com/abhinishakumari) | [LinkedIn](https://www.linkedin.com/in/abhinishakumari/)
-- **Anurag** - [GitHub](https://github.com/binuboi79) | [LinkedIn](https://in.linkedin.com/in/anurag-baral-2261a7191)
